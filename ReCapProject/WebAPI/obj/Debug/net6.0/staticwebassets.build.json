@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uYA1YFk6sEQiAQ7l+Lh2FcNrLh/UwYL79/JNVtFOWSM=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\Esranur Koçoğlu\\source\\repos\\ReCapProject\\WenAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Esranur Koçoğlu\\source\\repos\\ReCapProject\\WenAPI\\wwwroot\\DefaultImage.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esranur Koçoğlu\\source\\repos\\ReCapProject\\WenAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "DefaultImage.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DefaultImage.jpg"
+    }
+  ]
+}
